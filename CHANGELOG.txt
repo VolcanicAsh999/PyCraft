@@ -1,0 +1,14 @@
+0.1.0
+-Initial Release
+
+0.2.0
+-More blocks and biomes, bug fixes
+
+0.3.0
+-Updated graphics engine and added more content
+
+0.4.0
+-Reformatted biomes and put them in their own module, fixed water levels in ocean and swamp
+
+0.5.0
+-Added world saving and loading ! ! !
